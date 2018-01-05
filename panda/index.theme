@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=Nocturne
+Comment=Panda icons rounded
+Inherits=deepin
+Example=x-directory-normal
+Directories=apps/scalable
+
+[apps/scalable]
+Size=256
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
