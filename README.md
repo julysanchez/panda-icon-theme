@@ -1,4 +1,5 @@
-# panda-icon-theme
+[![panda-icon-theme](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/master/assets/panda.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
+
 Temos como objetivo a criação de ícones arredondados.
 
 ## Guia rapido
