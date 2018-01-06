@@ -1,11 +1,12 @@
 # panda-icon-theme
-Você poderá fazer o download do arquivo para o [gravit design](https://github.com/juninhodev/panda-icon-theme/raw/master/assets/base_panda.gvdesign) ou para outros editores que aceitem o formato [SVG](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/master/assets/base_panda.svg).
+Temos como objetivo a criação de ícones arredondados.
 
 ## Guia rapido
-### Criando seu primeiro ícone
-Nesta etapa, precisamos acessar o guia para podermos ter acesso as configurações iniciais, basicamente o ícone deverá conter a resolução de 256/256 pixels e formato SVG.
+Primeiramente você precisará fazer o download do arquivo base pois nele esta contido as medidas para criar os ícones, a versão para usuários do [gravit designer](https://github.com/juninhodev/panda-icon-theme/raw/master/assets/base_panda.gvdesign) ou baixe o arquivo no formato [SVG](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/master/assets/base_panda.svg).
 
-## Criando o seu primeiro ícone
+### Criando o seu primeiro ícone
+Com o ícone base você terá acesso ao designer básico onde poderá trabalhar da forma que achar melhor respeitando algumas regras. Não é permitido a alteração da cor da sombra base que atualmente é #000000 com opacidade de 15%.
+
 ### Cores
 Vamos precisar definir os padrões de cores para termos consistencia visual, Eu estarei trabalhando com as seguintes cores: #FFF176, #FFEE58, #FFEB3B, #FDD835, #F7F7F7 e #FFFFFF.
 
