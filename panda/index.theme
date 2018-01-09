@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=panda
-Comment=Panda icons rounded
+Comment=Panda icons for deepin
 Inherits=deepin
 Example=x-directory-normal
 Directories=apps/scalable
