@@ -1,6 +1,8 @@
 [![panda-icon-theme](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/master/assets/panda.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
 
 Temos como objetivo a criação de ícones arredondados.
+Os ícones panda são projetados para serem utilizados no sistema operacional Deepin.
+Licenciado sob licença GPLv3.
 
 ## Guia rapido
 Primeiramente você precisará fazer o download do arquivo base pois nele esta contido as medidas para criar os ícones, a versão para usuários do [gravit designer](https://github.com/juninhodev/panda-icon-theme/raw/master/assets/base_panda.gvdesign) ou baixe o arquivo no formato [SVG](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/master/assets/base_panda.svg).
