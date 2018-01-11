@@ -1,11 +1,11 @@
-[![panda-icon-theme](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/panda.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
+[![panda-icon-theme](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/panda_logo.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
 
 Temos como objetivo a criação de ícones arredondados.
 Os ícones panda são projetados para serem utilizados no sistema operacional Deepin.
 Licenciado sob licença GPLv3.
 
 ## Guia rapido
-Primeiramente você precisará fazer o download do arquivo base pois nele esta contido as medidas para criar os ícones, a versão para usuários do [gravit designer](https://github.com/juninhodev/panda-icon-theme/raw/stable/assets/base_panda.gvdesign) ou baixe o arquivo no formato [SVG](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/base_panda.svg).
+Faça o download do arquivo inicial neste [endereço](https://github.com/juninhodev/panda-icon-theme/raw/stable/assets/panda.gvdesign), após o termino deste procedimento será necessário acessar o aplicativo __gravit designer__ para que possam criar novos ícones. Vocês poderam acessar o modo online através deste [endereço](https://designer.gravit.io/) ou fazer o download da aplicação adequada para seu sistema operacional neste [endereço](https://designer.io/).
 
 ### Criando o seu primeiro ícone
 Com o ícone base você terá acesso ao designer básico onde poderá trabalhar da forma que achar melhor respeitando algumas regras. Não é permitido a alteração da cor da sombra base que atualmente é #000000 com opacidade de 15%.
