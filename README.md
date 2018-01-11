@@ -1,11 +1,11 @@
-[![panda-icon-theme](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/panda_logo.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
+[![panda-icon-theme](assets/panda_logo.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
 
 Temos como objetivo a criação de ícones arredondados.
 Os ícones panda são projetados para serem utilizados no sistema operacional Deepin.
 Licenciado sob licença GPLv3.
 
 ## Guia rapido
-Faça o download do arquivo inicial neste [endereço](https://github.com/juninhodev/panda-icon-theme/raw/stable/assets/panda.gvdesign), após o termino deste procedimento será necessário acessar o aplicativo __gravit designer__ para que possam criar novos ícones. Vocês poderam acessar o modo online através deste [endereço](https://designer.gravit.io/) ou fazer o download da aplicação adequada para seu sistema operacional neste [endereço](https://designer.io/).
+Faça o download do arquivo inicial neste [link](assets/panda.gvdesign), após o termino deste procedimento será necessário acessar o aplicativo __gravit designer__ para que possam criar novos ícones. Vocês poderam acessar o modo online através deste [link](https://designer.gravit.io/) ou fazer o download da aplicação adequada para seu sistema operacional neste [link](https://designer.io/).
 
 ### Criando o seu primeiro ícone
 Com o ícone base você terá acesso ao designer básico onde poderá trabalhar da forma que achar melhor respeitando algumas regras. Não é permitido a alteração da cor da sombra base que atualmente é #000000 com opacidade de 15%.
@@ -16,23 +16,23 @@ Vamos precisar definir os padrões de cores para termos consistencia visual, Eu 
 ### Gradiente
 Irei trabalhar com o gradiente linear dentre as demais opções disponíveis, utilizando as guia horizontais teremos os pontos base recomendados. (Eu estarei trabalhando com os pontos azul presentes na imagem abaixo).
 
-![Imagem](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/4_1.png)
+![Imagem](assets/4_1.png)
 
 Após aplicar o gradiente, teremos algo similar ao exemplo abaixo:
 
-![Imagem](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/5_1.png)
+![Imagem](assets/5_1.png)
 
 ## Sombra
 A sombra principal possui cor #000000 com transparência de 15%, este valor é unico e não deve ser modificado. (pre-visualização abaixo)
 
-![Imagem](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/5.png)
+![Imagem](assets/5.png)
 
 ## Forma
 No caso de estar utilizando gradiente, lembre-se de alterar a sombra das formas para #00000 e adicionar transparencia entre 15 a 30%. valor padrão atribuido é de 15%.
 
 Explorando detalhes adicionais
 
-![Imagem](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/2.png)
+![Imagem](assets/2.png)
 
 * 1 - Ponto de Luz.
 * 2 - Ponto de Sombra.
@@ -44,4 +44,4 @@ Explorando detalhes adicionais
 
 Resultado final
 
-![Imagem](https://raw.githubusercontent.com/juninhodev/panda-icon-theme/stable/assets/3.png)
+![Imagem](assets/3.png)
