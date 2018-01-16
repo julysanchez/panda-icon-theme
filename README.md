@@ -1,5 +1,5 @@
-[![panda-icon-theme](assets/panda_logo.svg?sanitize=true)](https://github.com/juninhodev/panda-icon-theme)
+# Awesome icons themes
 
-Temos como objetivo a criação de ícones arredondados.
-Os ícones panda são projetados para serem utilizados no sistema operacional Deepin.
-Licenciado sob licença GPLv3.
+We aim to create rounded icons. <br/>
+The awesome icons are designed to be used in the Deepin operating system. <br/>
+Licensed under GPLv3 license.
