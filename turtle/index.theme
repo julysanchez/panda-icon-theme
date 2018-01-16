@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=panda
-Comment=Panda icons for deepin
+Name=turtle
+Comment=Awesome icons theme for deepin - Turtle
 Inherits=deepin
 Example=x-directory-normal
 Directories=apps/scalable,places/scalable
@@ -13,7 +13,7 @@ MinSize=32
 MaxSize=256
 
 [places/scalable]
-Size=64
+Size=32
 Context=Places
 Type=Scalable
 MinSize=32
