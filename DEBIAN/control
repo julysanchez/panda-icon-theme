@@ -1,0 +1,13 @@
+Source: awesome-icons-themes
+Section: x11
+Priority: optional
+Maintainer: Julio Cesar <jcmljunior@gmail.com>
+Standards-Version: 0.3
+Version: 0.3
+Build-Depends: debhelper (>= 9), gtk-update-icon-cache
+Package: awesome-icons-themes
+Architecture: all
+Depends: deepin-icon-theme
+Conflicts: deepin-cursor-theme
+Description: This package is a pre-release version of Awesome icons themes. for more information access the page of the project in GitHub.
+Homepage: https://github.com/juninhodev/awesome-icons-themes
