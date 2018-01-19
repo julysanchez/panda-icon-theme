@@ -2,8 +2,8 @@ Source: awesome-icons-themes
 Section: x11
 Priority: optional
 Maintainer: Julio Cesar <jcmljunior@gmail.com>
-Standards-Version: 0.3
-Version: 0.3
+Standards-Version: 1.0
+Version: 1.0
 Build-Depends: debhelper (>= 9), gtk-update-icon-cache
 Package: awesome-icons-themes
 Architecture: all
